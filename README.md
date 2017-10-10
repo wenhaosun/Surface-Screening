@@ -22,7 +22,7 @@ In this repository are four files:
 •	Poscar_LiFePO4
 
 
-To run the surface screening algorithm, execute and topo_surface_screen.py in your favorite Python development environment. Note that executing this code requires the extremely powerful PyMatGen (Python Materials Genomics) package, which can be attained at http://pymatgen.org/#getting-pymatgen
+To run the surface screening algorithm, execute and topo_surface_screen.py in your favorite Python development environment. Note that executing this code requires the PyMatGen (Python Materials Genomics) package, which can be attained at http://pymatgen.org/#getting-pymatgen
 
 
 The algorithm intakes pymatgen structure objects. We have provided 3 examples that create PyMatGen structure objects from the 1) Materials Project, 2) a CIF file, 3) a VASP POSCAR file. If you wish to pull structures from the Materials Project, attain a (free) API key at https://materialsproject.org/open
