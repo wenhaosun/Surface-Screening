@@ -18,11 +18,6 @@ Dear Surface scientist,
 
 Thank you for taking interest in my algorithm. Below is a working implementation of the 3-atom screening heuristic. 
 
-Admittedly, this was written from a 'translation' of a set of MATLAB codes, back at a time when I knew very little python.
-For this reason, the code is not at all elegant, and could certainly be made more pythonic, more object-oriented, and could probably use more recent additions in pymatgen. 
-Perhaps an intrepid coder will find some satisfaction in doing so. 
-In the meantime, I am providing the code as is. 
-
 There are many potential modifications and extensions which could make this algorithm more powerful.
 Here, it is provided in a basic form, but it captures the physical essence of the 3-atom heuristic.    
 
