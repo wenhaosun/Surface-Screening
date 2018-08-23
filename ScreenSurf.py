@@ -21,6 +21,9 @@ Thank you for taking interest in my algorithm. Below is a working implementation
 There are many potential modifications and extensions which could make this algorithm more powerful.
 Here, it is provided in a basic form, but it captures the physical essence of the 3-atom heuristic.    
 
+This was written prior to the implementation of the pymatgen.core.surface package. 
+There may be implementations of existing python methods that can simplify this code. 
+
 Best regards,
 Wenhao Sun
 October, 2017 
